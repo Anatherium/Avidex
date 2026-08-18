@@ -1,0 +1,7 @@
+Host classwork.engr.oregonstate.edu
+    HostName classwork.engr.oregonstate.edu
+    User baruaha    
+Host flip1
+	HostName flip1.engr.oregonstate.edu
+	User baruaha
+	IdentityFile ~/.ssh/flipKey
